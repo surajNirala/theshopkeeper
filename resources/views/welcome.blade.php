@@ -84,6 +84,7 @@
                     Laravel
                 </div>
                     https://stackblitz.com/edit/ngx-content-loader
+                    https://stackoverflow.com/questions/35151887/how-to-create-placeholder-while-loading-like-facebook
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
